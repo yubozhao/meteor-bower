@@ -1,8 +1,8 @@
 Package.describe({
-  summary: "Use Bower packages in your Meteor app",
-  name: "mquandalle:bower",
-  git: "https://github.com/mquandalle/meteor-bower.git",
-  version: "0.1.11"
+  summary: "Use Bower packages in your Meteor app(bow version 1.3.12)",
+  name: "bozhao:bower",
+  git: "https://github.com/yubozhao/meteor-bower.git",
+  version: "0.1.12"
 });
 
 Package._transitional_registerBuildPlugin({
